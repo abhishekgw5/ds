@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "linkedlistdeletion": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    }
+}
